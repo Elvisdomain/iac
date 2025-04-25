@@ -64,4 +64,5 @@ variable "instance_name" {
   type        = string
   default     = "Jumphost-server"
 }
+#
 
